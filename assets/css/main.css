@@ -78,13 +78,10 @@ body p {
   width: 45%
 }
 
-p #fix-height {
-  
-}
-
 img#icon {
   height: 150px;
   width: 150px;
+  vertical-align: middle;
 }
 
 /* CSS Background Tricks */
